@@ -198,3 +198,14 @@ cython_debug/
 /training/dataset/
 
 
+# Conda environments
+env/
+.conda/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+
