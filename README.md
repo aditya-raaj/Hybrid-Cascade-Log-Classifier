@@ -77,9 +77,4 @@ The output will be a CSV file with an additional column `target_label`, which re
 
 ---
 
-**Credits and Acknowledgment**  
 
-This project was created as part of a learning initiative inspired by  
-@Codebasics Inc and @LearnerX Pvt Ltd.
-
-Special thanks to the original creator and instructors for their educational content.
