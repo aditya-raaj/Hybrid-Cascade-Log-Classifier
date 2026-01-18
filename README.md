@@ -65,6 +65,18 @@ This project implements a hybrid cascade log classification system that applies 
    - `http://127.0.0.1:8000/docs` (Interactive Swagger documentation)
    - `http://127.0.0.1:8000/redoc` (Alternative API documentation)
 
+
+
+![UI](resources/swaggerui1.png)
+
+
+![UI](resources/swaggerui2.png)
+
+
+
+![UI](resources/swaggerui3.png)
+
+
 ---
 
 ## Usage
@@ -76,5 +88,6 @@ Upload a CSV file containing logs to the FastAPI endpoint for classification. En
 The output will be a CSV file with an additional column `target_label`, which represents the classified label for each log entry.
 
 ---
+
 
 
